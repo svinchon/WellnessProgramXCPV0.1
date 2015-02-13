@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Require-Bundle: xcpcomm.xcpcommons;bundle-version="2.1.1", xcp.xcpcore
+ ;bundle-version="2.1.1", xcpui.xcpui;bundle-version="2.1.1"
+Bundle-ClassPath: .,lib/xcpjavamoduleslibrary.jar
+Bundle-Version: 1.0.0.201410010959
+EMC-XCP-ExecutionEnvironment: com.emc.executionenvironment.xcp:2.1.5
+Bundle-Name: WellnessProgram
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: wn.WellnessProgram
+NAMESPACE: wn
+

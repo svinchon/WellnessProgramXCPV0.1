@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application name="WellnessProgram" perspective="com.emc.xcp.builder.appperspective">
+<editors>
+<editor active="true" id="com.emc.ide.artifact.bpm.process.editor" path="/WellnessProgram/Artifacts/Processes/registrationrequest.process"/>
+</editors>
+</application>
